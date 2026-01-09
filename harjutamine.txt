@@ -1,1 +1,1 @@
-GitHub on versioonihaldus platform, kus saavad kasutajad hoida, jagada ja teha uusi projekte. GitHub on populaarne platvorm mida saab kõik kasutada ja seal on juba miljoneid kasutajaid.
+GitHub on versioonihaldus platform, kus saavad kasutajad hoida, jagada ja teha uusi projekte. Ma kasutan GitHubi, et hoida oma olulisi programme seal, kui me õpime programmeerimist.
