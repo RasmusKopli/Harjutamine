@@ -1,2 +1,1 @@
 GitHub on versioonihaldus platform, kus saavad kasutajad hoida, jagada ja teha uusi projekte. Ma kasutan GitHubi, et hoida oma olulisi programme seal, kui me õpime programmeerimist.
-GitHubi platvormi arendus algas 19. oktoobril 2007. Saidi käivitasid aprillis 2008 Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon pärast seda, kui see oli olnud beetaversioonina saadaval paar kuud.
